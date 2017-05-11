@@ -1,0 +1,10 @@
+.settings
+.svn
+.project
+.buildpath
+.rockstarapps
+*.log
+*.tmpexp
+language_*_cache.inc
+sess_*
+phpcons.data
